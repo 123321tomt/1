@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,ofonet.net/#/dashboard
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,search.lmstudio.ai
 DOMAIN-SUFFIX,search.sharepoint.com
-DOMAIN-SUFFIX,www.superbiu.com,Proxy
-DOMAIN-SUFFIX,ofo.lat,Proxy
-DOMAIN-SUFFIX,superbiu.net,Proxy
+DOMAIN-SUFFIX,www.superbiu.com
+DOMAIN-SUFFIX,ofo.lat
+DOMAIN-SUFFIX,superbiu.net
+DST-PORT,443,Proxy
