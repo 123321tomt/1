@@ -56,5 +56,5 @@ DOMAIN-SUFFIX,search.sharepoint.com
 DOMAIN-SUFFIX,www.superbiu.com
 DOMAIN-SUFFIX,ofo.lat
 DOMAIN-SUFFIX,superbiu.net
-DST-PORT,443,Proxy
+
 DOMAIN-SUFFIX,fotoncard.com
