@@ -90,3 +90,4 @@ DOMAIN-SUFFIX,zk-ga-pcprod.acs.pubg.com
 DOMAIN-SUFFIX,zkd-pcprod.acs.pubg.com
 DOMAIN-SUFFIX,shared.fastly.steamstatic.com
 DOMAIN-SUFFIX,shared.video.fastly.steamstatic.com
+DOMAIN-SUFFIX,cmp1-lax1.steamserver.net
