@@ -88,3 +88,4 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,test.steampowered.com  
 DOMAIN-SUFFIX,zk-ga-pcprod.acs.pubg.com  
 DOMAIN-SUFFIX,zkd-pcprod.acs.pubg.com
+DOMAIN-SUFFIX,shared.fastly.steamstatic.com
